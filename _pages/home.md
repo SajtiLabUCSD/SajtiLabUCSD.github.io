@@ -1,7 +1,6 @@
 ---
 title: "Sajti Lab - Home"
 layout: homelay
-excerpt: "Sajti Lab at UC San Diego"
 sitemap: false
 permalink: /
 ---
