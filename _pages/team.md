@@ -7,7 +7,7 @@ permalink: /team/
 ---
 
  
-Eniko Sajti, PhD
+[Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti), PhD  
 Fenghua, PhD  
 Richard, PhD   
 Cadence  
