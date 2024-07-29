@@ -8,9 +8,9 @@ permalink: /team/
 
 # Group Members  
 [Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti), PhD, Principal Investigator  
-Fenghua, PhD    
-Richard, PhD   
-Cadence  
-Nikita  
+Fenghua Zeng, PhD    
+John Lalith Charles Richard, PhD   
+Cadence Seymour  
+Nikita Katoch  
 Brendon  
 Pei Lin, PhD  
