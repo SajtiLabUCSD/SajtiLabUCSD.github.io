@@ -6,9 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
- 
-[Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti), PhD  
-Fenghua, PhD  
+# Group Members  
+[Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti), PhD, Principal Investigator  
+Fenghua, PhD    
 Richard, PhD   
 Cadence  
 Nikita  
