@@ -35,7 +35,7 @@ Genetic variation in susceptibility to lung disease
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Figure_1AB_Sajti_2020_Nature_immu_1400x700.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Figure_3ABD_Sajti_2020_Nature_immu_1400x700.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lungmap_cellcard_Figure_4.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SunsetOverWoodenShoeTulipFarm.jpeg" alt="Slide 4" />
