@@ -2,7 +2,7 @@
 - title: "Transcriptomic and epigenetic mechanisms underlying myeloid diversity in the lung"
   image: Sajti2020_Nature_Imm_Figure1.png
   description: In the [present study](https://www.nature.com/articles/s41590-019-0582-z), we analyzed transcriptomes and open chromatin of alveolar macrophages (AMs), interstitial macrophages (IMs) and lung monocytes from two mouse strains. These resources reveal a striking divergence in a fundamental innate immune response pathway in AMs and establish a framework for further understanding macrophage diversity in the lung.
-  authors: Eniko Sajti^, Verena M. Link, Zhengyu Ouyang, Nathanael J. Spann, Emma Westin, Casey E. Romanoski, Gregory J. Fonseca, Lawrence S. Prince & Christopher K. Glass (^Corresponding author)
+  authors: <b>Eniko Sajti</b>^, Verena M. Link, Zhengyu Ouyang, Nathanael J. Spann, Emma Westin, Casey E. Romanoski, Gregory J. Fonseca, Lawrence S. Prince & Christopher K. Glass (^Corresponding author)
   link:
     url: https://www.nature.com/articles/s41590-019-0585-9
     display: News about this study on Nature Immunology.
@@ -11,7 +11,7 @@
 - title: "A census of the lung: CellCards from LungMAP"
   image: lung_cellcard_Figure_1.jpg
   description: This [present study](https://doi.org/10.1016/j.devcel.2021.11.007) was initiated by members of the NHLBI-funded LungMAP Consortium and aided by experts in the lung biology community. We synthesized current data into a comprehensive and practical cellular census of the lung. Identities of cell types in the normal lung are captured in individual cell cards with delineation of function, markers, developmental lineages, heterogeneity, regenerative potential, disease links, and key experimental tools. 
-  authors: Xin Sun^, Anne-Karina Perl, Rongbo Li, Sheila M Bell, [Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti), Vladimir V Kalinichenko, Tanya V Kalin, Ravi S Misra, Hitesh Deshmukh, Geremy Clair, Jennifer Kyle, Laura E Crotty Alexander, Jorge A Masso-Silva, Joseph A Kitzmiller, Kathryn A Wikenheiser-Brokamp, Gail Deutsch, Minzhe Guo, Yina Du, Michael P Morley, Michael J Valdez, Haoze V Yu, Kang Jin, Eric E Bardes, Jarod A Zepp, Terren Neithamer, Maria C Basil, William J Zacharias, Jamie Verheyden, Randee Young, Gautam Bandyopadhyay, Sara Lin, Charles Ansong, Joshua Adkins, Nathan Salomonis, Bruce J Aronow, Yan Xu, Gloria Pryhuber, Jeff Whitsett, Edward E Morrisey^, NHLBI LungMAP Consortium.(^Corresponding author)
+  authors: Xin Sun^, Anne-Karina Perl, Rongbo Li, Sheila M Bell, <b>Eniko Sajti</b>, Vladimir V Kalinichenko, Tanya V Kalin, Ravi S Misra, Hitesh Deshmukh, Geremy Clair, Jennifer Kyle, Laura E Crotty Alexander, Jorge A Masso-Silva, Joseph A Kitzmiller, Kathryn A Wikenheiser-Brokamp, Gail Deutsch, Minzhe Guo, Yina Du, Michael P Morley, Michael J Valdez, Haoze V Yu, Kang Jin, Eric E Bardes, Jarod A Zepp, Terren Neithamer, Maria C Basil, William J Zacharias, Jamie Verheyden, Randee Young, Gautam Bandyopadhyay, Sara Lin, Charles Ansong, Joshua Adkins, Nathan Salomonis, Bruce J Aronow, Yan Xu, Gloria Pryhuber, Jeff Whitsett, Edward E Morrisey^, NHLBI LungMAP Consortium.(^Corresponding author)
   link:
     url: https://www.lungmap.net/cell-cards/
     display: lungMAP CellCards
