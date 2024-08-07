@@ -6,7 +6,7 @@ permalink: /
 ---
 
 **About the PI**  
-Enikő Sajti is an assistant professor at UC San Diego and a board-certified pediatrician and neonatologist at Rady Children's Hospital. She received her medical degree and PhD from Utrecht University in the Netherlands. As an awardee of the Dutch Royal Academy of Sciences she completed a postdoctoral fellowship in pulmonary medicine at UC San Francisco. After completing her pediatric residency and neonatology fellowship at Harvard Medical School/Boston Children's Hospital, she was recruited to UC San Diego Department of Pediatrics.
+Enikő Sajti is an associate professor at UC San Diego and a board-certified pediatrician and neonatologist at Rady Children's Hospital. She received her medical degree and PhD from Utrecht University in the Netherlands. As an awardee of the Dutch Royal Academy of Sciences she completed a postdoctoral fellowship in pulmonary medicine at UC San Francisco. After completing her pediatric residency and neonatology fellowship at Harvard Medical School/Boston Children's Hospital, she was recruited to UC San Diego Department of Pediatrics.
 
 **Our focus - [more details](https://sajtilabucsd.github.io/research/)**  
 Myeloid cell function and the innate immune system  
