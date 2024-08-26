@@ -12,5 +12,5 @@ permalink: /team/
 **John Lalith Charles Richard**, PhD   
 **Cadence Seymour**  
 **Nikita Katoch**  
-**Brendon**  
+**Brendon Saiki**  
 **Pei Patrick Lin**, PhD  
