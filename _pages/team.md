@@ -10,7 +10,7 @@ permalink: /team/
 **[Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti)**, MD, PhD, Principal Investigator  
 **Fenghua Zeng**, MD, PhD    
 **John Lalith Charles Richard**, PhD   
-**Wenxi Tang** (co-advised graduate student)  
+**Wenxi Tang** (PhD student co-advised with **[Joseph L Witztum](https://sites.medschool.ucsd.edu/som/medicine/divisions/endocrinology/faculty/Pages/joseph-witztum.aspx)**)  
 **Cadence Seymour**  
 **Nikita Katoch**  
 **Brendon Saiki**  
