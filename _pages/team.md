@@ -12,6 +12,8 @@ permalink: /team/
 **John Lalith Charles Richard**, PhD   
 **Wenxi Tang** (PhD student co-advised with **[Joseph L Witztum](https://sites.medschool.ucsd.edu/som/medicine/divisions/endocrinology/faculty/Pages/joseph-witztum.aspx)**)  
 **Cadence Seymour**  
-**Nikita Katoch**  
 **Brendon Saiki**  
 **Pei Patrick Lin**, PhD  
+# Previous members   
+**Nikita Katoch**    
+**Sean Jansky**  
