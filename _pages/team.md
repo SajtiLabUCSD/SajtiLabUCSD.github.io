@@ -15,6 +15,6 @@ permalink: /team/
 **Cadence Seymour**  
 **Pei Patrick Lin**, PhD  
 # Previous members   
-**Brendon Saiki** 
+**Brendon Saiki**   
 **Nikita Katoch**    
 **Sean Jansky**  
