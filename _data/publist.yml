@@ -8,6 +8,16 @@
     display: News about this study on Nature Immunology.
   highlight: 1
 
+- title: "Genetic variation in the activity of a TREM2–p53 signaling axis determines oxygen-induced lung injury"
+  image: Sajti2020_Nature_Imm_Figure1.png
+  description: Using genetically diverse mouse models, we found that hyperoxia-sensitive mice exhibit a distinct innate immune response compared to resilient strains. Notably, the hyperoxia-sensitive C57BL/6J strain showed selective upregulation of TREM2 on lung macrophages and monocytes. Deletion of TREM2 in myeloid cells led to reduced inflammation, preserved alveolar structure and sustained cell proliferation in the developing lung following oxygen exposure. Mechanistically, TREM2 loss limited p53 activation, favoring cell-cycle arrest over apoptosis. These results identify TREM2 as a key driver of immune-mediated lung injury in neonatal hyperoxia and suggest it may be a promising therapeutic target for preventing or treating bronchopulmonary dysplasia in vulnerable preterm infants.
+  authors: Yohei Abe, Nathanael J. Spann, Wenxi Tang, Fenghua Zeng, Cadence Seymour, Sean Jansky, Jason L. Guo, Robert Huff, Kelly Chanthavixay, John Lalith Charles Richard, Miguel Mooney, Debanjan Dhar, Souradipta Ganguly, David M. Lopez, Michael T. Longaker, Christopher Benner, Christopher K. Glass & Eniko Sajt
+  link:
+    url: https://www.nature.com/articles/s41590-025-02217-4
+  highlight: 1
+
+  
+
 - title: "A census of the lung: CellCards from LungMAP"
   image: lung_cellcard_Figure_1.jpg
   description: This [present study](https://doi.org/10.1016/j.devcel.2021.11.007) was initiated by members of the NHLBI-funded LungMAP Consortium and aided by experts in the lung biology community. We synthesized current data into a comprehensive and practical cellular census of the lung. Identities of cell types in the normal lung are captured in individual cell cards with delineation of function, markers, developmental lineages, heterogeneity, regenerative potential, disease links, and key experimental tools. 
