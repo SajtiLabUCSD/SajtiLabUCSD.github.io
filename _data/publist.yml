@@ -2,7 +2,7 @@
 - title: "Transcriptomic and epigenetic mechanisms underlying myeloid diversity in the lung"
   image: Sajti2020_Nature_Imm_Figure1.png
   description: In the [present study](https://www.nature.com/articles/s41590-019-0582-z), we analyzed transcriptomes and open chromatin of alveolar macrophages (AMs), interstitial macrophages (IMs) and lung monocytes from two mouse strains. These resources reveal a striking divergence in a fundamental innate immune response pathway in AMs and establish a framework for further understanding macrophage diversity in the lung.
-  authors: <b>Eniko Sajti</b>^, Verena M. Link, Zhengyu Ouyang, Nathanael J. Spann, Emma Westin, Casey E. Romanoski, Gregory J. Fonseca, Lawrence S. Prince & Christopher K. Glass (^Corresponding author)
+  authors: Sajti, E., Link, V.M., Ouyang, Z. et al. Nat Immunol 21, 221–231 (2020).
   link:
     url: https://www.nature.com/articles/s41590-019-0585-9
     display: News about this study on Nature Immunology.
@@ -10,8 +10,8 @@
 
 - title: "Genetic variation in the activity of a TREM2–p53 signaling axis determines oxygen-induced lung injury"
   image: Figure_2.jpeg
-  description: In this [study] (https://www.nature.com/articles/s41590-025-02217-4), we found that hyperoxia-sensitive mice exhibit a distinct innate immune response compared to resilient strains. Notably, the hyperoxia-sensitive C57BL/6J strain showed selective upregulation of TREM2 on lung macrophages and monocytes. Deletion of TREM2 in myeloid cells led to reduced inflammation, preserved alveolar structure and sustained cell proliferation in the developing lung following oxygen exposure. Mechanistically, TREM2 loss limited p53 activation, favoring cell-cycle arrest over apoptosis. These results identify TREM2 as a key driver of immune-mediated lung injury in neonatal hyperoxia and suggest it may be a promising therapeutic target for preventing or treating bronchopulmonary dysplasia in vulnerable preterm infants.
-  authors: Yohei Abe, Nathanael J. Spann, Wenxi Tang, Fenghua Zeng, Cadence Seymour, Sean Jansky, Jason L. Guo, Robert Huff, Kelly Chanthavixay, John Lalith Charles Richard, Miguel Mooney, Debanjan Dhar, Souradipta Ganguly, David M. Lopez, Michael T. Longaker, Christopher Benner, Christopher K. Glass & Eniko Sajti
+  description: In this [study](https://www.nature.com/articles/s41590-025-02217-4), we found that hyperoxia-sensitive mice exhibit a distinct innate immune response compared to resilient strains. Notably, the hyperoxia-sensitive C57BL/6J strain showed selective upregulation of TREM2 on lung macrophages and monocytes. Deletion of TREM2 in myeloid cells led to reduced inflammation, preserved alveolar structure and sustained cell proliferation in the developing lung following oxygen exposure. Mechanistically, TREM2 loss limited p53 activation, favoring cell-cycle arrest over apoptosis. These results identify TREM2 as a key driver of immune-mediated lung injury in neonatal hyperoxia and suggest it may be a promising therapeutic target for preventing or treating bronchopulmonary dysplasia in vulnerable preterm infants.
+  authors: Abe, Y., Spann, N.J., Tang, W. et al. Nat Immunol 26, 1287–1298 (2025).
   link:
     url: https://www.nature.com/articles/s41590-025-02217-4
   highlight: 1
