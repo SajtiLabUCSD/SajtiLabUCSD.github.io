@@ -1,5 +1,6 @@
 ---
-title: "Sajti Lab - Home"
+title: "Sajti Lab — Eniko Sajti | UC San Diego"
+description: "Sajti Lab at UC San Diego …"
 layout: homelay
 sitemap: false
 permalink: /
