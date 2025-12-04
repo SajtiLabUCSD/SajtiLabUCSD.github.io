@@ -15,5 +15,5 @@ div.well a {
 div.well ul li a {
     font-size: 1.5rem;  /* smaller than the title */
     font-weight: normal; /* not bold */
-    padding-left: 1rem;
+    padding-left: 0;
 }
