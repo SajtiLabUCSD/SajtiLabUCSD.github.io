@@ -5,10 +5,14 @@
     {% for item in site.data.news %}
       <li>
         <strong>{{ item.date }}:</strong>
-        <a href="{{ item.url }}" target="_blank">
-          {{ item.description }}
-        </a>
-      </li>
+        {% if item.url %}
+          <a href="{{ item.url }}" target="_blank">
+            {{ item.description | markdownify }}
+          </a>
+        {% else %}
+          {{ item.description | markdownify }}
+        {% endif %}
+      </li>   
     {% endfor %}
   </ul>
 </div>
