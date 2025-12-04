@@ -1,3 +1,9 @@
-.well {
-  font-size: 9px;   /* or 18px, adjust as you like */
+div.well h4 {
+    font-size: 1.2rem;           /* Heading size */
+    font-weight: bold;            /* Bold headings */
+}
+
+div.well a {
+    color: #0056b3;              /* Link color */
+    text-decoration: none;       /* Remove underline */
 }
