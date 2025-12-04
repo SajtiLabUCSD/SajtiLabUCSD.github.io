@@ -4,7 +4,7 @@ div.well h4 {
 }
 
 div.well p {
-    font-size: 1.2rem;           /* Heading size */
+    font-size: 1.5rem;           /* Heading size */
     font-weight: normal;            /* Bold headings */
 }
 
@@ -13,6 +13,6 @@ div.well a {
 }
 
 div.well ul li a {
-    font-size: 1.2rem;  /* smaller than the title */
+    font-size: 1.5rem;  /* smaller than the title */
     font-weight: normal; /* not bold */
 }
