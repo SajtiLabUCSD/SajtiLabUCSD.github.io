@@ -1,11 +1,13 @@
 - date: Jan 2025
-  headline: Our collaborator Yohei is moving to Arc Institute. Wishing him all the best!
+  description: Our collaborator Yohei is moving to Arc Institute. Wishing him all the best!
 
 - date: May 2025
-  headline: Annika is joining us as a summer intern. Welcome!
+  description: Annika is joining us as a summer intern. Welcome!
   
 - date: June 2025
-  headline: Our Trem2 paper is accepted by Nat Immunology (link)[https://www.nature.com/articles/s41590-025-02217-4].
+  description: Our Trem2 paper is accepted by Nat Immunology 
+  url: "https://www.nature.com/articles/s41590-025-02217-4"
 
 - date: Nov 2025
-  headline: Cadence won the Best Basic Science Abstract at WSPR 2026. Congrats!
+  description: Cadence won the Best Basic Science Abstract at WSPR 2026. Congrats!
+  url: "https://www.westernspr.org/awards"
