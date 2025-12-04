@@ -11,3 +11,8 @@ div.well p {
 div.well a {
     color: #0056b3;              /* Link color */
 }
+
+div.well ul li a {
+    font-size: 1.2rem;  /* smaller than the title */
+    font-weight: normal; /* not bold */
+}
