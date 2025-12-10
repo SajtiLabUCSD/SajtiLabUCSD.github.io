@@ -1,5 +1,5 @@
 ---
-title: "the Eniko Sajti group | UC San Diego"
+title: "the Eniko Sajti group | Sajti lab homepage"
 description: "Sajti Lab at UC San Diego"
 layout: homelay
 sitemap: false
