@@ -11,7 +11,8 @@ permalink: /team/
 - **Fenghua Zeng**, MD, PhD    
 - **Xiafang Chen**, MD, PhD, visiting scholar  
 - **Wenxi Tang** (PhD student co-advised with **[Joseph L Witztum](https://sites.medschool.ucsd.edu/som/medicine/divisions/endocrinology/faculty/Pages/joseph-witztum.aspx)**)  
-- **Cadence Seymour**  
+- **Cadence Seymour**
+- **Eva Bailey** 
 - **Pei Patrick Lin**, PhD  
 # Previous members (by alphabetical order)  
 - **Sean Jansky**  
