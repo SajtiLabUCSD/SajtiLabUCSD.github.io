@@ -7,14 +7,16 @@ permalink: /team/
 ---
 
 # Group Members  
-**[Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti)**, MD, PhD, Principal Investigator  
-**Fenghua Zeng**, MD, PhD    
-**Xiafang Chen**, MD, PhD, visiting scholar  
-**Wenxi Tang** (PhD student co-advised with **[Joseph L Witztum](https://sites.medschool.ucsd.edu/som/medicine/divisions/endocrinology/faculty/Pages/joseph-witztum.aspx)**)  
-**Cadence Seymour**  
-**Pei Patrick Lin**, PhD  
+- **[Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti)**, MD, PhD, Principal Investigator  
+- **Fenghua Zeng**, MD, PhD    
+- **Xiafang Chen**, MD, PhD, visiting scholar  
+- **Wenxi Tang** (PhD student co-advised with **[Joseph L Witztum](https://sites.medschool.ucsd.edu/som/medicine/divisions/endocrinology/faculty/Pages/joseph-witztum.aspx)**)  
+- **Cadence Seymour**  
+- **Pei Patrick Lin**, PhD  
 # Previous members (by alphabetical order)  
-- **Brendon Saiki**
-- **John Lalith Charles Richard**  
-- **Nikita Katoch**    
 - **Sean Jansky**  
+- **Nikita Katoch**    
+- **John Lalith Charles Richard**  
+- **Brendon Saiki**  
+  
+
