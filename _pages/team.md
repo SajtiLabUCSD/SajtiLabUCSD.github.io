@@ -15,10 +15,10 @@ permalink: /team/
 - **Eva Bailey** 
 - **Pei Patrick Lin**, PhD
 
-# Previous members (by alphabetical order)  
-- **Sean Jansky**  
-- **Nikita Katoch**    
+# Previous members  
+- **Sean Jansky**      
 - **John Lalith Charles Richard**  
+- **Nikita Katoch**  
 - **Brendon Saiki**  
-  
+- **Annika Hibner**  
 
