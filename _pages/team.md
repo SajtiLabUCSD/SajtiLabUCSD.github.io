@@ -9,14 +9,14 @@ permalink: /team/
 # Group Members  
 - **[Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti)**, MD, PhD, Principal Investigator  
 - **Fenghua Zeng**, MD, PhD    
-- **Xiafang Chen**, MD, PhD, visiting scholar  
+- **Xiaofan Chen**, MD, PhD, visiting scholar  
 - **Cadence Seymour**
 - **Eva Bailey** 
 - **Pei Patrick Lin**, PhD
 
 # Previous members  
 - **Sean Jansky**
-- **Wenxi Tang** (PhD student co-advised with **[Joseph L Witztum](https://scholar.google.com/citations?hl=en&user=EPLFTKgAAAAJ&view_op=list_works&sortby=pubdate)**)  
+- **Wenxi Tang** (PhD student co-advised with Joseph L Witztum)  
 - **John Lalith Charles Richard**  
 - **Nikita Katoch**  
 - **Brendon Saiki**  
