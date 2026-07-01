@@ -18,6 +18,7 @@ permalink: /team/
 - **Wenxi Tang** (PhD student co-advised with Joseph L Witztum)  
 - **John Lalith Charles Richard**  
 - **Nikita Katoch**  
-- **Brendon Saiki**  
+- **Brendon Saiki**
+- **Xiafang Chen**
 - **Annika Hibner**  
 
