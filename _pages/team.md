@@ -15,7 +15,7 @@ permalink: /team/
 
 # Previous members  
 - **Sean Jansky**
-- **Wenxi Tang** (PhD student co-advised with Joseph L Witztum)  
+- **Wenxi Tang** 
 - **John Lalith Charles Richard**  
 - **Nikita Katoch**  
 - **Brendon Saiki**
