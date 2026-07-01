@@ -8,8 +8,7 @@ permalink: /team/
 
 # Group Members  
 - **[Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti)**, MD, PhD, Principal Investigator  
-- **Fenghua Zeng**, MD, PhD    
-- **Xiafang Chen**, MD, PhD, visiting scholar  
+- **Fenghua Zeng**, MD, PhD     
 - **Cadence Seymour**
 - **Eva Bailey** 
 - **Pei Patrick Lin**, PhD
