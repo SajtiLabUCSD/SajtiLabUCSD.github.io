@@ -20,6 +20,6 @@ permalink: /team/
 - **John Lalith Charles Richard**  
 - **Nikita Katoch**  
 - **Brendon Saiki**
-- **Xiafan Chen**
+- **Xiafang Chen**
 - **Annika Hibner**  
 
