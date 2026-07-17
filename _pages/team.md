@@ -10,7 +10,8 @@ permalink: /team/
 - **[Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti)**, MD, PhD, Principal Investigator  
 - **Fenghua Zeng**, MD, PhD     
 - **Cadence Seymour**
-- **Eva Bailey** 
+- **Eva Bailey**
+- **Drugan Brady**
 - **Pei Patrick Lin**, PhD
 
 # Previous members  
@@ -19,6 +20,6 @@ permalink: /team/
 - **John Lalith Charles Richard**  
 - **Nikita Katoch**  
 - **Brendon Saiki**
-- **Xiafang Chen**
+- **Xiafan Chen**
 - **Annika Hibner**  
 
