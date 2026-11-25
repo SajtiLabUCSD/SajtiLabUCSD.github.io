@@ -18,10 +18,10 @@ permalink: /
 
   
 **Our focus - [more details](https://sajtilabucsd.github.io/research/)**  
-Myeloid cell function and the innate immune system  
-Bronchopulmonary dysplasia (BPD)  
-Lung macrophage and monocyte subtypes  
-Genetic variation in susceptibility to lung disease  
+- Myeloid cell function and the innate immune system  
+- Bronchopulmonary dysplasia (BPD)  
+- Lung macrophage and monocyte subtypes  
+- Genetic variation in susceptibility to lung disease  
 
 
   
